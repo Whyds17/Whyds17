@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Whyds17
-- 👀 I’m interested Web Developer
-- 🌱 I’m currently learning html,css,javascript
+- 👋 Hi, I’m @Iqbal Wahyudi
+- 👀 I’m interested Front End Developer
+- 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iqyu3000@gmail.com
